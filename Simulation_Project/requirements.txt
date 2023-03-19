@@ -1,0 +1,7 @@
+pandas
+numpy
+ciw
+matplotlib
+scipy
+openpyxl
+auto-py-to-exe
